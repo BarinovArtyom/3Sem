@@ -1,0 +1,4 @@
+﻿  Lab2.c
+D:\VSprojects\Lab2c\Lab2c\Lab2.c(18,33): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\VSprojects\Lab2c\Lab2c\Lab2.c(19,33): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Lab2c.vcxproj -> D:\VSprojects\Lab2c\x64\Debug\Lab2c.exe
